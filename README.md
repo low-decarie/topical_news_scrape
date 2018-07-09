@@ -1,0 +1,1 @@
+An attempt to scrape news from main newspapers in UK for trends in specific topics
